@@ -10,6 +10,7 @@
 | Mundo 3 | _Estruturas Compostas_ |
 | Mundo 4 | _Em Breve_ |
 | Mundo 5 | _Em Breve_ |
+
 ### Progresso do Curso
 
 - [x] Mundo 1
