@@ -15,8 +15,8 @@
 - [x] Mundo 1
 - [x] Mundo 2
 - [x] Mundo 3
-- [ ] Mundo 4 (Em breve)
-- [ ] Mundo 5 (Em breve)
+- [ ] Mundo 4 _*(Em breve)*_
+- [ ] Mundo 5 _*(Em breve)*_
 
 ### Criador do Curso
 
