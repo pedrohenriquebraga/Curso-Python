@@ -1,5 +1,5 @@
 # Curso De Python
- Aqui guardarei todo o conteúdo do curso de Python!!
+ Aqui guardarei todo o conteúdo do curso de Python, lembrando que eu fiz **todos** os exercícios!!
 
 ### Módulos do Curso
 
