@@ -5,11 +5,11 @@
 
 | Mundos | Sobre |
 | --- | --- | 
-| Mundo 1 | Fundamentos |
-| Mundo 2 | Estruturas de Controle |
-| Mundo 3 | Estruturas Compostas |
-| Mundo 4 | Em Breve |
-| Mundo 5 | Em Breve |
+| Mundo 1 | _Fundamentos_ |
+| Mundo 2 | _Estruturas de Controle_ |
+| Mundo 3 | _Estruturas Compostas_ |
+| Mundo 4 | _Em Breve_ |
+| Mundo 5 | _Em Breve_ |
 ### Progresso do Curso
 
 - [x] Mundo 1
