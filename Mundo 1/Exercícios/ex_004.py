@@ -1,0 +1,20 @@
+#Caractiza o que foi digitado
+
+word = input('Digite algo: ')
+num = word.isnumeric()
+alpha = word.isalpha()
+alnum = word.isalnum()
+space = word.isspace()
+upper = word.isupper()
+lower = word.islower()
+capit = word.istitle()
+
+print(f"{word} é:")
+print(f"Tipo:{type(word)}")
+print(f"Número:{num}")
+print(f"Tem só letras:{alpha}")
+print(f"É alfanumérico:{alnum}")
+print(f"Tem apenas espaços:{space}")
+print(f"Tem só maiúsculas:{upper}")
+print(f"Tem só minúsculas:{lower}")
+print(f"Está capitalizado:{capit}")
