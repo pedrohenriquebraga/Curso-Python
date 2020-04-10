@@ -24,7 +24,7 @@
 Esse curso foi criado pelo canal _Curso em Vídeo_ de _Gustavo Guanabara_.
 Caso queira acessar e fazer o curso [clique aqui](https://www.youtube.com/user/cursosemvideo)
 
-### USO DOS ARQUIVOS
+### Uso dos arquivos
 
 Fique à vontade para fazer clones, forks e sugerir novas modificações em meus códigos.
 
