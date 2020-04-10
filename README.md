@@ -1,6 +1,15 @@
 # Curso De Python
  Aqui guardarei todo o conteúdo do curso de Python!!
 
+### Módulos do Curso
+
+| Mundos | Sobre |
+| --- | --- | 
+| Mundo 1 | Fundamentos |
+| Mundo 2 | Estruturas de Controle |
+| Mundo 3 | Estruturas Compostas |
+| Mundo 4 | Em Breve |
+| Mundo 5 | Em Breve |
 ### Progresso do Curso
 
 - [x] Mundo 1
