@@ -25,7 +25,7 @@ Caso queira acessar e fazer o curso [clique aqui](https://www.youtube.com/user/c
 
 ### USO DOS ARQUIVOS
 
-Fique a vontade para fazer clones, forks e sugerir novas modificações em meus códigos.
+Fique à vontade para fazer clones, forks e sugerir novas modificações em meus códigos.
 
 ### VEJA MAIS SOBRE MIM
 
