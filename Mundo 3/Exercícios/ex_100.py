@@ -1,4 +1,4 @@
-# Sorteio com funções
+# Sorteio e soma os números pares com funções 
 
 from random import randint
 
