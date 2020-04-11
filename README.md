@@ -5,9 +5,9 @@
 
 | Mundos | Sobre |
 | --- | --- | 
-| Mundo 1 | _Fundamentos_ |
-| Mundo 2 | _Estruturas de Controle_ |
-| Mundo 3 | _Estruturas Compostas_ |
+| Mundo 1 | _[Fundamentos](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)_ |
+| Mundo 2 | _[Estruturas de Controle](https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye)_ |
+| Mundo 3 | _[Estruturas Compostas](https://www.youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH)_ |
 | Mundo 4 | _Em Breve_ |
 | Mundo 5 | _Em Breve_ |
 
